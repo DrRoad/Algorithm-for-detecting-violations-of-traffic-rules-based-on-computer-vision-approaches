@@ -1,0 +1,2 @@
+# Algorithm-for-detecting-violations-of-traffic-rules-based-on-computer-vision-approaches
+We propose a new algorithm for automatic detect violations of traffic rules for improving the people safety on the unregulated pedestrian crossing. The algorithm uses multi-step proceedings. They are zebra detection, cars detection, and pedestrian detection. For car detection, we use faster R-CNN deep learning tool. The algorithm shows promising results in the detection violations of traffic rules.
